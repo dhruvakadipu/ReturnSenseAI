@@ -1,0 +1,7 @@
+{
+  "name": "ReturnSense AI",
+  "description": "Evidence-backed, multilingual retail returns prevention copilot for online fashion sellers in India powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
